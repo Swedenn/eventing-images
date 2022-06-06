@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:79b22dfdec132382a273aef8c381cf04eaecf89530d4517c7abe738e9132ae2f
